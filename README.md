@@ -8,8 +8,8 @@ Voll.med é uma clínica médica fictícia que precisa de um aplicativo para ges
 
 - [x] CRUD de médicos;
 - [x] CRUD de pacientes;
-- [ ] Agendamento de consultas(em breve);
-- [ ] Cancelamento de consultas(em breve);
+- [x] Agendamento de consultas;
+- [x] Cancelamento de consultas;
 
 ---
 
@@ -41,7 +41,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 
 ## 📝 Licença
 
-Projeto desenvolvido por [Alura](https://www.alura.com.br) e utilizado nos cursos de Spring Boot.
+Projeto desenvolvido por mim através da [Alura](https://www.alura.com.br) e utilizado nos cursos de Spring Boot.
 
 Instrutor: [Rodrigo Ferreira](https://cursos.alura.com.br/user/rodrigo-ferreira) 
 
