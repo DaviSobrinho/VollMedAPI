@@ -1,4 +1,4 @@
-/*package med.voll.api.domain.medico;
+package med.voll.api.domain.medico;
 
 import med.voll.api.domain.endereco.DadosEndereco;
 import med.voll.api.domain.endereco.Endereco;
@@ -63,4 +63,4 @@ class MedicoControllerTest {
                 "a","b","12345678","Brasilia","df","",""
         );
     }
-}*/
+}

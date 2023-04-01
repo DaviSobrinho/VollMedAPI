@@ -1,4 +1,4 @@
-/*package med.voll.api.domain.medico;
+package med.voll.api.domain.medico;
 
 import med.voll.api.domain.consulta.AgendaDeConsultas;
 import med.voll.api.domain.consulta.DadosAgendamentoConsulta;
@@ -61,4 +61,4 @@ class ConsultaControllerTest {
         var jsonEsperado = dadosDetalhamentoConsultaJacksonTester.write(new DadosDetalhamentoConsulta(null,21L,51L,data)).getJson();
         assertThat(response.getContentAsString()).isEqualTo(jsonEsperado);
     }
-}*/
+}
